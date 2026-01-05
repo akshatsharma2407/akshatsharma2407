@@ -2,11 +2,7 @@
 
 I'm an aspiring data scientist with strong skills in data analysis, visualization, and machine learning. I work on end-to-end data science projects, deriving insights from large datasets and solving complex problems. Beyond programming, I enjoy writing tutorials, creating personal projects, and participating in programming challenges. My work is focused on applying data science techniques effectively and sharing knowledge through blogs and articles.
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=akshatsharma2407)
-<br/>
-![Github Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsharma2407)
-<br/>
-![Github Stats3](https://github-readme-stats.vercel.app/api?username=akshatsharma2407)
+[![GitHub Streak](https://streak-stats.demolab.com?user=akshatsharma2407&theme=dark)](https://git.io/streak-stats)
 
 ## 🔧 Skills & Tools
 
