@@ -9,7 +9,7 @@ I'm an aspiring data scientist with strong skills in data analysis, visualizatio
 - **Languages:** Python, SQL, html.
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, flask.
 - **Tools:** Jupyter, Git,Github, Streamlit, VS Code
-- **Data Science:** Data Analysis, Machine Learning, Data Visualization, Predictive Modeling, Clustering, Regression
+- **Data Science:** Data Analysis, Machine Learning, Data Visualization, Predictive Modeling, Clustering, Regression, Deep Learning
 - **Databases:** MySQL.
 
 ## 📈 My Data Science Journey
